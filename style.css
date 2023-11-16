@@ -1,0 +1,42 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5eafb; /* Light green background color */
+    color: #333; /* Dark text color */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #8b4caf; /* Green header background color */
+    color: #fff; /* White text color */
+    padding: 1em;
+    text-align: center;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff; /* White content background color */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle effect */
+}
+
+h2 {
+    color: #664caf; /* Green heading color */
+}
+
+p {
+    line-height: 1.6;
+}
+
+footer {
+    background-color: #824caf; /* Green footer background color */
+    color: #fff; /* White text color */
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
